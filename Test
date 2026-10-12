@@ -37,7 +37,7 @@ xDTaraZ.Config = {
     GameId = 10035204815, PlaceId = 124216119978534,
     Tag = "[RideAPet]",
 
-    Discord = "https://discord.gg/FHVfmeSceA",
+    Discord = "https://discord.gg/mariohub",
     UiSource = "https://raw.githubusercontent.com/xDTaraZz/Roblox-Scripts/refs/heads/main/ui.lua",
     LoadTimeout = 10, GameLibDeadline = 8,
     AlertTries = 8, AlertGap = 1.5, WarnGap = 5,
